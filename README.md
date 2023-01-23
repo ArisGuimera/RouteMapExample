@@ -10,7 +10,7 @@ Uber, Glovo, Rappi... ¿Qué tienen en común? TODAS tienen rutas, ya que es una
 más usadas y requeridas a día de hoy. 
 
 En este proyecto aprenderemos a crear una App completa donde implementaremos Google Maps y utilizaremos 
-el API gratutito de OpenRouteService para poder seleccionar coodenadas y pintar la ruta más óptima en el momento. 
+el API gratuito de OpenRouteService para poder seleccionar coordenadas y pintar la ruta más óptima en el momento. 
 
 En este vídeo aprenderás:
 <br />
